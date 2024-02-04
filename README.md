@@ -1,3 +1,17 @@
+# FILE DIRECTORY
+- phase estimation_challenge.ipynb - base QPE
+- iterative_alg.ipynb - iterative QPE
+- dinamic_iterative.ipynb - iterative QPE with n qbits
+- parallel_gates.ipynb - reduced gates
+- phase_estimate_hadamard.ipynb  - mathematical/probabilistic approach
+- Bayesian_test.ipynb - bayesian QPE attempt
+
+Graphing
+- iterative code graph.ipynb
+- base code graph.ipynb
+
+
+
 # 2024_quantinuum
 Quantinuum repository for iQuHACK 2024
 
